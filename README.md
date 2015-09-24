@@ -11,8 +11,11 @@
 
 ## Usage
 
+Requires Ruby 2.x.
+
 1. Clone this repository
 1. Run `bundle`
+1. [Create a GitHub token](https://github.com/settings/tokens/new?description=lumbergh&scopes=write:org)
 1. Run
 
     ```bash
